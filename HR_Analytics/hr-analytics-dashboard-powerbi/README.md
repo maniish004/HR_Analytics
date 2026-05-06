@@ -30,7 +30,7 @@
 ## **Screenshot**
 
 <!-- Replace with your own screenshot URL (inside the repo or an uploaded asset) -->
-<img width="1919" height="928" alt="HR Analytics Dashboard in Power BI" src="https://raw.githubusercontent.com/HR_Analytics/hr-analytics-dashboard-powerbi/screenshots/HR_report.png" />
+<img width="1919" height="928" alt="HR Analytics Dashboard in Power BI" src="https://raw.githubusercontent.com/brej-29/hr-analytics-dashboard-powerbi/main/screenshots/hr-dashboard-main.png" />
 
 ---
 
@@ -199,6 +199,7 @@ You have two main options: cloning via Git or downloading the ZIP.
 
    - In a terminal:
 
+     - git clone https://github.com/brej-29/hr-analytics-dashboard-powerbi.git
      - cd hr-analytics-dashboard-powerbi
 
 2. **Download ZIP (no Git needed)**
@@ -274,3 +275,20 @@ Once the report is open in Power BI Desktop:
    - Use **Model view** to inspect the relationship between `Staff` and `Qualification Dimension`.
    - Open **Power Query** to review data cleaning steps.
    - Add your own measures and visuals to extend the project.
+
+---
+
+## **License**
+
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file in this repository for full details.
+
+---
+
+## **Contact**
+
+If you’d like to discuss this project, provide feedback, or connect:
+
+- LinkedIn: <a href="https://www.linkedin.com/in/brejesh-balakrishnan-7855051b9/">Brejesh Balakrishnan</a>
+
+Feel free to fork the repo, open issues, or suggest improvements!
