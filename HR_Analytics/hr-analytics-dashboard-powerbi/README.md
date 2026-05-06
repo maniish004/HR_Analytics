@@ -12,6 +12,7 @@
   <img alt="Tool" src="https://img.shields.io/badge/Tool-Power%20BI-0066ff">
   <img alt="Language" src="https://img.shields.io/badge/Language-DAX%20%7C%20Power%20Query-yellow">
   <img alt="Data Source" src="https://img.shields.io/badge/Data-Excel%20HR%20Dataset-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-black">
 </div>
 
 <div align="center">
@@ -29,7 +30,7 @@
 ## **Screenshot**
 
 <!-- Replace with your own screenshot URL (inside the repo or an uploaded asset) -->
-<img width="1919" height="928" alt="HR Analytics Dashboard in Power BI" src="HR_Analytics/hr-analytics-dashboard-powerbi/screenshots/hr-dashboard-main.png" />
+<img width="1919" height="928" alt="HR Analytics Dashboard in Power BI" src="https://raw.githubusercontent.com/brej-29/hr-analytics-dashboard-powerbi/main/screenshots/hr-dashboard-main.png" />
 
 ---
 
@@ -198,6 +199,7 @@ You have two main options: cloning via Git or downloading the ZIP.
 
    - In a terminal:
 
+     - git clone https://github.com/brej-29/hr-analytics-dashboard-powerbi.git
      - cd hr-analytics-dashboard-powerbi
 
 2. **Download ZIP (no Git needed)**
@@ -274,3 +276,19 @@ Once the report is open in Power BI Desktop:
    - Open **Power Query** to review data cleaning steps.
    - Add your own measures and visuals to extend the project.
 
+---
+
+## **License**
+
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file in this repository for full details.
+
+---
+
+## **Contact**
+
+If you’d like to discuss this project, provide feedback, or connect:
+
+- LinkedIn: <a href="https://www.linkedin.com/in/brejesh-balakrishnan-7855051b9/">Brejesh Balakrishnan</a>
+
+Feel free to fork the repo, open issues, or suggest improvements!
