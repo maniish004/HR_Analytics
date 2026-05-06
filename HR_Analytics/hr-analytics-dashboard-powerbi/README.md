@@ -30,7 +30,7 @@
 ## **Screenshot**
 
 <!-- Replace with your own screenshot URL (inside the repo or an uploaded asset) -->
-<img width="1919" height="928" alt="HR Analytics Dashboard in Power BI" src="[https://raw.githubusercontent.com/brej-29/hr-analytics-dashboard-powerbi/main/screenshots/hr-dashboard-main.png](https://github.com/maniish004/HR_Analytics/blob/c9e8f37399cb9e834ca8e917a51298541aa56085/HR_Analytics/hr-analytics-dashboard-powerbi/screenshots/HR_report.png" />
+<img width="1919" height="928" alt="HR Analytics Dashboard in Power BI" src="https://github.com/maniish004/HR_Analytics/blob/69923fa952c44b34caff0b709ed00beea32e3434/HR_Analytics/hr-analytics-dashboard-powerbi/screenshots/HR_report.png" />
 
 ---
 
