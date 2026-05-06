@@ -29,7 +29,7 @@
 ## **Screenshot**
 
 <!-- Replace with your own screenshot URL (inside the repo or an uploaded asset) -->
-<img width="1919" height="928" alt="HR Analytics Dashboard in Power BI" src="HR_Analytics/hr-analytics-dashboard-powerbi/screenshots/HR_report.png" />
+<img width="1919" height="928" alt="HR Analytics Dashboard in Power BI" src="HR_Analytics/hr-analytics-dashboard-powerbi/screenshots/hr-dashboard-main.png" />
 
 ---
 
