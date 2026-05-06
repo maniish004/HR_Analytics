@@ -12,7 +12,6 @@
   <img alt="Tool" src="https://img.shields.io/badge/Tool-Power%20BI-0066ff">
   <img alt="Language" src="https://img.shields.io/badge/Language-DAX%20%7C%20Power%20Query-yellow">
   <img alt="Data Source" src="https://img.shields.io/badge/Data-Excel%20HR%20Dataset-brightgreen">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-black">
 </div>
 
 <div align="center">
